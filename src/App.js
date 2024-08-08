@@ -62,7 +62,7 @@ function App() {
     <>
       <Navbar>
         <Container>
-          <Navbar.Brand>Store Products</Navbar.Brand>
+          <Navbar.Brand> Store Products</Navbar.Brand>
           <Nav>
             <Nav.Item>Created by Cooper Codes</Nav.Item>
           </Nav>
